@@ -1,5 +1,5 @@
 # Natalia Boldyreva - Technical writer/Content manager
-👋 Hi, I’m Natalia Boldyreva @Ralexada
+👋 Hi, I’m Natalia Boldyreva
 - I've got 10+ years in IT business as a marketing specialist. My professional journey has been with international IT companies such as Orace, Siemens, AVEVA.
 - I'm experienced in RU-ENG-RU translation/copywriting/editing/proofreading of IT, product, marketing and business content.
 - Language skills: Russian (native), English (advanced).
