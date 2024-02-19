@@ -3,7 +3,7 @@
 - I've got 10+ years in IT business as a marketing specialist. My professional journey has been with international IT companies such as Orace, Siemens, AVEVA.
 - I'm experienced in RU-ENG-RU translation/copywriting/editing/proofreading of IT, product, marketing and business content.
 - Language skills: Russian (native), English (advanced).
-- IT skills: ![Static Badge](https://img.shields.io/badge/HTML%2FCSS-green) ![Static Badge](https://img.shields.io/badge/Markdown-green) ![Static Badge](https://img.shields.io/badge/GitHub-green)
+- IT skills: ![Static Badge](https://img.shields.io/badge/HTML%2FCSS-green) ![Static Badge](https://img.shields.io/badge/Markdown-green) ![Static Badge](https://img.shields.io/badge/Git-green)
  
 I’m looking for job opportunities related to **technical writing**, **content management**, **technical documentation development** for IT projects.
 
