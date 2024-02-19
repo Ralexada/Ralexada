@@ -5,7 +5,6 @@
 - Language skills: Russian (native), English (advanced).
 - IT skills: ![Static Badge](https://img.shields.io/badge/HTML%2FCSS-green) ![Static Badge](https://img.shields.io/badge/Markdown-green) ![Static Badge](https://img.shields.io/badge/GitHub-green)
  
-
 I’m looking for job opportunities related to **technical writing**, **content management**, **technical documentation development** for IT projects.
 
 :round_pushpin: **My full [CV profile](https://hh.ru/resume/1c8bf27fff0368d0110039ed1f497172494d69)**
