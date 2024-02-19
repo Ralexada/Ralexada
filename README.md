@@ -8,7 +8,7 @@
 
 I’m looking for job opportunities related to **technical writing**, **content management**, **technical documentation development** for IT projects.
 
-**My full [CV profile](https://hh.ru/resume/1c8bf27fff0368d0110039ed1f497172494d69)**
+:round_pushpin: **My full [CV profile](https://hh.ru/resume/1c8bf27fff0368d0110039ed1f497172494d69)**
 
 ------------------------------------
 📫 How to reach me: boldyreva1803@gmail.com or via [![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/natalia-boldyreva-bab67667/)
